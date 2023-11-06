@@ -13,15 +13,15 @@ Setting the right price for an Airbnb listing is a complex task that affects bot
 To address the price prediction challenge, we employ a Linear Regression model. This statistical method is selected for its simplicity and effectiveness in understanding the linear relationships between independent variables (listing features) and the dependent variable (price).
 
 ## Repository Structure
-- `train_model.py`: The Python script that encapsulates the training process of the Linear Regression model.
+- `train.py`: The Python script that encapsulates the training process of the Linear Regression model.
 - `requirements.txt`: A file listing all the necessary Python libraries required to execute the project's code.
-- `data/listings.csv`: The dataset file that provides the input data for model training.
+- `listings.csv`: The dataset file that provides the input data for model training.
 
 ## Getting Started
 To get started with this project:
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Execute the `train_model.py` script to train the model on the dataset.
+3. Execute the `train.py` script to train the model on the dataset.
 
 ## License
 This project is released under the MIT License. For more information, see the `LICENSE` file in the repository.
