@@ -24,7 +24,7 @@ To get started with this project:
 3. Execute the `train.py` script to train the model on the dataset.
 
 ## License
-This project is released under the MIT License. For more information, see the `LICENSE` file in the repository.
+This project is released under the MIT License.
 
 ## Contributors
 This project welcomes contributions from the community. If you have suggestions or improvements, feel free to open an issue or a pull request.
